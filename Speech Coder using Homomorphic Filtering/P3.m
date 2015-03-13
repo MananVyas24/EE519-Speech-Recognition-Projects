@@ -2,7 +2,7 @@
 % Name : Manan Vyas
 % USCID: 7483-8632-00
 % Email: mvyas@usc.edu
-% EE519 : Speech Recognition : Final Exam : P3
+% EE519 : Speech Recognition : P3
 % % ----------------------------------------------
 
 % Setup
